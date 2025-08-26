@@ -1,4 +1,4 @@
-// Objectivo: Receber dois números inteirosm, calcular a soma deles e imprimir na tela.
+// Objectivo: Receber dois números inteiros, calcular a soma deles e imprimir na tela.
 // Autor: Elias de Castro Adriano; Data: 25/06/2025, 00H:21M
 // Estudando também Git e GitHub, hoje 26/08/2025, 01H:17M. 
 
